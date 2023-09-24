@@ -1,4 +1,4 @@
-.desktop {
+.desktop-pso {
     background-color: #dbebe8;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,7 @@
     width: 100%;
   }
   
-  .desktop .div {
+  .desktop-pso .div-pso{
     background-color: #dbebe8;
     overflow: hidden;
     width: 100%;
@@ -14,7 +14,7 @@
     position: relative;
   }
   
-  .desktop .overlap {
+  .desktop-pso .overlap-pso {
     position: absolute;
     width: 100%;
     height: 99px;
@@ -26,7 +26,7 @@
     filter: blur(25px);
   }
   
-  .desktop .group {
+  .desktop-pso .group-pso {
     position: absolute;
     width: 553px;
     height: 50px;
@@ -34,7 +34,7 @@
     left: 322px;
   }
   
-  .desktop .text-wrapper {
+  .desktop-pso .text-wrapper-pso {
     position: absolute;
     width: 126px;
     top: 0;
@@ -47,7 +47,7 @@
     line-height: normal;
   }
   
-  .desktop .overlap-group {
+  .desktop-pso .overlap-group-pso {
     position: absolute;
     width: 100%;
     height: 85px;
@@ -61,7 +61,7 @@
     -webkit-backdrop-filter: blur(4px) brightness(100%);
   }
   
-  .desktop .text-wrapper-2 {
+  .desktop-pso .text-wrapper-2-pso {
     position: absolute;
     width: 204px;
     top: 0;
@@ -74,7 +74,7 @@
     line-height: normal;
   }
   
-  .desktop .text-wrapper-3 {
+  .desktop-pso .text-wrapper-3-pso {
     position: absolute;
     width: 204px;
     top: 0;
@@ -87,7 +87,7 @@
     line-height: normal;
   }
   
-  .desktop .overlap-2 {
+  .desktop-pso .overlap-2-pso {
     position: absolute;
     width: 191px;
     height: 57px;
@@ -95,7 +95,7 @@
     left: 1244px;
   }
   
-  .desktop .rectangle {
+  .desktop-pso .rectangle-pso {
     position: absolute;
     width: 191px;
     height: 48px;
@@ -105,7 +105,7 @@
     border-radius: 30px;
   }
   
-  .desktop .text-wrapper-4 {
+  .desktop-pso .text-wrapper-4-pso {
     position: absolute;
     width: 138px;
     top: 7px;
@@ -118,7 +118,7 @@
     line-height: normal;
   }
   
-  .desktop .overlap-3 {
+  .desktop-pso .overlap-3-pso {
     position: absolute;
     width: 621px;
     height: 812px;
@@ -132,7 +132,7 @@
       0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
   }
   
-  .desktop .ellipse {
+  .desktop-pso .ellipse-pso {
     position: absolute;
     width: 68px;
     height: 61px;
@@ -146,7 +146,7 @@
     -webkit-backdrop-filter: blur(4px) brightness(100%);
   }
   
-  .desktop .smart {
+  .desktop-pso .smart-pso {
     position: absolute;
     width: 97px;
     height: 80px;
@@ -155,7 +155,7 @@
     object-fit: cover;
   }
   
-  .desktop .upload-image {
+  .desktop-pso .upload-image-pso {
     position: absolute;
     width: 103px;
     height: 92px;
@@ -164,7 +164,7 @@
     object-fit: cover;
   }
   
-  .desktop .rectangle-2 {
+  .desktop-pso .rectangle-2-pso {
     position: absolute;
     width: 567px;
     height: 588px;
@@ -174,7 +174,7 @@
     border-radius: 25px;
   }
   
-  .desktop .p {
+  .desktop-pso .p-pso {
     position: absolute;
     width: 1137px;
     top: 151px;
@@ -188,7 +188,7 @@
     line-height: normal;
   }
   
-  .desktop .MADE-WITH-TEAM-wrapper {
+  .desktop-pso .MADE-WITH-TEAM-wrapper-pso {
     position: absolute;
     width: 1440px;
     height: 165px;
@@ -197,7 +197,7 @@
     background-color: #b7e2da;
   }
   
-  .desktop .MADE-WITH-TEAM {
+  .desktop-pso .MADE-WITH-TEAM-pso {
     position: absolute;
     width: 513px;
     top: 70px;
@@ -210,263 +210,263 @@
     line-height: normal;
   }
   
-  .desktop .span {
+  .desktop-pso .span-pso {
     color: #000000;
   }
   
-  .desktop .text-wrapper-5 {
+  .desktop-pso .text-wrapper-hi-pso {
     color: #f31616;
   }
-.desktop {
-  background-color: #dbebe8;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-}
-
-.desktop .div {
-  background-color: #dbebe8;
-  overflow: hidden;
-  width: 1440px;
-  height: 1360px;
-  position: relative;
-}
-
-.desktop .overlap {
-  position: absolute;
-  width: 1448px;
-  height: 99px;
-  top: 0;
-  left: -8px;
-  background-color: #dbebe8;
-  border: 1px solid;
-  border-color: #000000;
-  filter: blur(25px);
-}
-
-.desktop .group {
-  position: absolute;
-  width: 553px;
-  height: 50px;
-  top: 34px;
-  left: 322px;
-}
-
-.desktop .text-wrapper {
-  position: absolute;
-  width: 126px;
-  top: 0;
-  left: 0;
-  font-family: "Inconsolata-Regular", Helvetica;
-  font-weight: 400;
-  color: #000000;
-  font-size: 32px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .overlap-group {
-    position: absolute;
+  .desktop-pso {
+    background-color: #dbebe8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     width: 100%;
-    height: 85px;
+  }
+  
+  .desktop-pso .div-pso {
+    background-color: #dbebe8;
+    overflow: hidden;
+    width: 1440px;
+    height: 1360px;
+    position: relative;
+  }
+  
+  .desktop-pso .overlap-pso {
+    position: absolute;
+    width: 1448px;
+    height: 99px;
     top: 0;
-    left: 0;
-    background-color: #f1f7f74c;
+    left: -8px;
+    background-color: #dbebe8;
     border: 1px solid;
     border-color: #000000;
-    box-shadow: 0px 4px 4px #00000040;
+    filter: blur(25px);
+  }
+  
+  .desktop-pso .group-pso {
+    position: absolute;
+    width: 553px;
+    height: 50px;
+    top: 34px;
+    left: 322px;
+  }
+  
+  .desktop-pso .text-wrapper-pso {
+    position: absolute;
+    width: 126px;
+    top: 0;
+    left: 0;
+    font-family: "Inconsolata-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-pso .overlap-group-pso {
+      position: absolute;
+      width: 100%;
+      height: 85px;
+      top: 0;
+      left: 0;
+      background-color: #f1f7f74c;
+      border: 1px solid;
+      border-color: #000000;
+      box-shadow: 0px 4px 4px #00000040;
+      backdrop-filter: blur(4px) brightness(100%);
+      -webkit-backdrop-filter: blur(4px) brightness(100%);
+    }
+    
+    .desktop-pso .group-pso {
+      position: absolute;
+      width: 531px;
+      height: 51px;
+      top: 32px;
+      left: 273px;
+    }
+    
+    .desktop-pso .text-wrapper-2-pso {
+      position: absolute;
+      width: 10%;
+      top: 0;
+      left: 0%;
+      font-family: "Inconsolata-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      letter-spacing: 0;
+      line-height: normal;
+      text-decoration: none;
+    }
+    
+    .desktop-pso .overlap-group-2-pso {
+      position: absolute;
+      width: 376px;
+      height: 51px;
+      top: 0;
+      left: 17%;
+    }
+    
+    .desktop-pso .text-wrapper--pso {
+      position: absolute;
+      width: 45%;
+      top: 0;
+      left: 0%;
+      font-family: "Inconsolata-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      letter-spacing: 0;
+      line-height: normal;
+      text-decoration: none;
+    }
+    
+    .desktop-pso .text-wrapper-4-pso {
+      position: absolute;
+      width: 45%;
+      top: 0;
+      left: 45%;
+      font-family: "Inconsolata-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 24px;
+      letter-spacing: 0;
+      line-height: normal;
+      text-decoration: none;
+    }
+    
+    .desktop-pso.overlap-2-pso {
+      position: absolute;
+      width: 191px;
+      height: 61px;
+      top: 22px;
+      left: 1227px;
+    }
+    
+    .desktop-pso .rectangle-7-pso {
+      width: 191px;
+      height: 48px;
+      top: 0;
+      right: -20%;
+      background-color: #8dd2c5;
+      position: absolute;
+      border-radius: 30px;
+    }
+    
+    .desktop-pso .text-wrapper-5-pso {
+      position: absolute;
+      width: 138px;
+      top: 13px;
+      right: -8%;
+      font-family: "Inconsolata-Regular", Helvetica;
+      font-weight: 400;
+      color: #000000;
+      font-size: 20px;
+      letter-spacing: 0;
+      line-height: normal;
+      text-decoration: none;
+    }
+  
+  .desktop-pso .overlap-3-pso {
+    position: absolute;
+    width: 621px;
+    height: 812px;
+    top: 254px;
+    left: 420px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    border: 5px solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040,
+      0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
+  }
+  
+  .desktop-pso .ellipse-pso {
+    position: absolute;
+    width: 68px;
+    height: 61px;
+    top: 698px;
+    left: 280px;
+    background-color: #767676;
+    border-radius: 34px/30.5px;
+    border: 4px solid;
+    border-color: #000000;
     backdrop-filter: blur(4px) brightness(100%);
     -webkit-backdrop-filter: blur(4px) brightness(100%);
   }
   
-  .desktop .group {
+  .desktop-pso .smart-pso {
     position: absolute;
-    width: 531px;
-    height: 51px;
-    top: 32px;
-    left: 273px;
+    width: 97px;
+    height: 80px;
+    top: 689px;
+    left: 434px;
+    object-fit: cover;
   }
   
-  .desktop .text-wrapper-2 {
+  .desktop-pso .upload-image-pso {
     position: absolute;
-    width: 10%;
-    top: 0;
-    left: 0%;
-    font-family: "Inconsolata-Regular", Helvetica;
+    width: 103px;
+    height: 92px;
+    top: 683px;
+    left: 74px;
+    object-fit: cover;
+  }
+  
+  .desktop-pso .rectangle-2-pso {
+    position: absolute;
+    width: 567px;
+    height: 588px;
+    top: 24px;
+    left: 24px;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  .desktop-pso .p-pso {
+    position: absolute;
+    width: 1137px;
+    top: 151px;
+    left: 151px;
+    font-family: "Kadwa-Regular", Helvetica;
     font-weight: 400;
     color: #000000;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .desktop-pso .MADE-WITH-TEAM-wrapper-pso {
+    position: absolute;
+    width: 1440px;
+    height: 165px;
+    top: 1195px;
+    left: 0;
+    background-color: #b7e2da;
+  }
+  
+  .desktop-pso .MADE-WITH-TEAM-pso{
+    position: absolute;
+    width: 513px;
+    top: 70px;
+    left: 502px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
     font-size: 24px;
     letter-spacing: 0;
     line-height: normal;
-    text-decoration: none;
   }
   
-  .desktop .overlap-group-2 {
-    position: absolute;
-    width: 376px;
-    height: 51px;
-    top: 0;
-    left: 17%;
-  }
-  
-  .desktop .text-wrapper-3 {
-    position: absolute;
-    width: 45%;
-    top: 0;
-    left: 0%;
-    font-family: "Inconsolata-Regular", Helvetica;
-    font-weight: 400;
+  .desktop-pso .span-pso {
     color: #000000;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
-    text-decoration: none;
   }
   
-  .desktop .text-wrapper-4 {
-    position: absolute;
-    width: 45%;
-    top: 0;
-    left: 45%;
-    font-family: "Inconsolata-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 24px;
-    letter-spacing: 0;
-    line-height: normal;
-    text-decoration: none;
+  .desktop-pso .text-wrapper-hi-pso {
+    color: #f31616;
   }
-  
-  .desktop .overlap-2 {
-    position: absolute;
-    width: 191px;
-    height: 61px;
-    top: 22px;
-    left: 1227px;
-  }
-  
-  .desktop .rectangle-7 {
-    width: 191px;
-    height: 48px;
-    top: 0;
-    right: -20%;
-    background-color: #8dd2c5;
-    position: absolute;
-    border-radius: 30px;
-  }
-  
-  .desktop .text-wrapper-5 {
-    position: absolute;
-    width: 138px;
-    top: 13px;
-    right: -8%;
-    font-family: "Inconsolata-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: normal;
-    text-decoration: none;
-  }
-
-.desktop .overlap-3 {
-  position: absolute;
-  width: 621px;
-  height: 812px;
-  top: 254px;
-  left: 420px;
-  background-color: #d9d9d9;
-  border-radius: 30px;
-  border: 5px solid;
-  border-color: #000000;
-  box-shadow: 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040,
-    0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040, 0px 4px 4px #00000040;
-}
-
-.desktop .ellipse {
-  position: absolute;
-  width: 68px;
-  height: 61px;
-  top: 698px;
-  left: 280px;
-  background-color: #767676;
-  border-radius: 34px/30.5px;
-  border: 4px solid;
-  border-color: #000000;
-  backdrop-filter: blur(4px) brightness(100%);
-  -webkit-backdrop-filter: blur(4px) brightness(100%);
-}
-
-.desktop .smart {
-  position: absolute;
-  width: 97px;
-  height: 80px;
-  top: 689px;
-  left: 434px;
-  object-fit: cover;
-}
-
-.desktop .upload-image {
-  position: absolute;
-  width: 103px;
-  height: 92px;
-  top: 683px;
-  left: 74px;
-  object-fit: cover;
-}
-
-.desktop .rectangle-2 {
-  position: absolute;
-  width: 567px;
-  height: 588px;
-  top: 24px;
-  left: 24px;
-  background-color: #ffffff;
-  border-radius: 25px;
-}
-
-.desktop .p {
-  position: absolute;
-  width: 1137px;
-  top: 151px;
-  left: 151px;
-  font-family: "Kadwa-Regular", Helvetica;
-  font-weight: 400;
-  color: #000000;
-  font-size: 32px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .MADE-WITH-TEAM-wrapper {
-  position: absolute;
-  width: 1440px;
-  height: 165px;
-  top: 1195px;
-  left: 0;
-  background-color: #b7e2da;
-}
-
-.desktop .MADE-WITH-TEAM {
-  position: absolute;
-  width: 513px;
-  top: 70px;
-  left: 502px;
-  font-family: "Inter-Regular", Helvetica;
-  font-weight: 400;
-  color: transparent;
-  font-size: 24px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .span {
-  color: #000000;
-}
-
-.desktop .text-wrapper-hi {
-  color: #f31616;
-}
-  
+    

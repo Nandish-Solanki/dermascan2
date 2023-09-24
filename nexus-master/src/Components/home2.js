@@ -3,40 +3,40 @@ import "./home.css";
 
 const Home2 = () => {
     return (
-      <div className="desktop">
-      <div className="overlap-wrapper">
-        <div className="overlap">
-          <div className="rectangle"></div>
-          <img
+      <div className="desktop-home">
+      <div className="overlap-wrapper-home">
+        <div className="overlap-home">
+          <div className="rectangle-home"></div>
+          {/* <img
             className="element-tiny"
-            src="img/16334676-tiny-dermatologists-examining-skin-of-patient-at-hospital-2.svg"
-          />
-          <div className="div"></div>
-          <div className="group">
-            <div className="text-wrapper">HOME</div>
-            <div className="overlap-group">
-              <div className="text-wrapper-2">ABOUT US</div>
-              <div className="text-wrapper-3">CONTACT US</div>
+            src=""
+          /> */}
+          <div className="div-home"></div>
+          <div className="group-home">
+            <div className="text-wrapper-home">HOME</div>
+            <div className="overlap-group-home">
+              <div className="text-wrapper-2-home">ABOUT US</div>
+              <div className="text-wrapper-3-home">CONTACT US</div>
             </div>
           </div>
-          <div className="rectangle-2"></div>
-          <div className="text-wrapper-4">SCAN NOW</div>
-          <p className="p">HEALTHY SKIN MADE EASY WITH DERMALYZE</p>
-          <p className="text-wrapper-5">
+          <div className="rectangle-2-home"></div>
+          <div className="text-wrapper-4-home">SCAN NOW</div>
+          <p className="p-home">HEALTHY SKIN MADE EASY WITH DERMALYZE</p>
+          <p className="text-wrapper-5-home">
             With Dermalyze, effortlessly upload a picture of your skin condition, and instantly receive a
             diagnosis.Also, find Ayurvedic remedies to help you on your healing journey.
           </p>
-          <div className="overlap-group-wrapper">
-            <div className="overlap-2">
-              <div className="rectangle-3"></div>
-              <div className="START-NOW">START NOW &gt;&gt;</div>
+          <div className="overlap-group-wrapper-home">
+            <div className="overlap-2-home">
+              <div className="rectangle-3-home"></div>
+              <div className="START-NOW-home">START NOW &gt;&gt;</div>
             </div>
           </div>
-          <div className="rectangle-4"></div>
-          <p className="MADE-WITH-TEAM">
-            <span className="span">MADE WITH </span>
-            <span className="text-wrapper-6">❤ </span>
-            <span className="span">TEAM NEURAL NEXUS</span>
+          <div className="rectangle-4-home"></div>
+          <p className="MADE-WITH-TEAM-home">
+            <span className="span-home">MADE WITH </span>
+            <span className="text-wrapper-6-home">❤ </span>
+            <span className="span-home">TEAM NEURAL NEXUS</span>
           </p>
         </div>
       </div>

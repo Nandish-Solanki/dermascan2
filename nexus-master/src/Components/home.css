@@ -1,4 +1,4 @@
-.desktop {
+.desktop-home {
     background-color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -6,21 +6,21 @@
     width: 100%;
   }
   
-  .desktop .overlap-wrapper {
+  .desktop-home .overlap-wrapper-home{
     background-color: #ffffff;
     overflow: hidden;
     width: 100%;
     height: 922px;
   }
   
-  .desktop .overlap {
+  .desktop-home .overlap-home {
     position: relative;
     width: 100%;
     height: 922px;
     left: -9px;
   }
   
-  .desktop .rectangle {
+  .desktop-home .rectangle-home {
     position: absolute;
     width: 100%;
     height: 689px;
@@ -29,7 +29,7 @@
     background-color: #ffffff;
   }
   
-  .desktop .element-tiny {
+  .desktop-home .element-tiny-home {
     position: absolute;
     width: 915px;
     height: 651px;
@@ -37,7 +37,7 @@
     left: 534px;
   }
   
-  .desktop .div {
+  .desktop-home .div-home {
     position: absolute;
     width: 103%;
     height: 99px;
@@ -51,7 +51,7 @@
     
   }
   
-  .desktop .group {
+  .desktop-home .group-home {
     position: absolute;
     width: 553px;
     height: 50px;
@@ -59,7 +59,7 @@
     left: 317px;
   }
   
-  .desktop .text-wrapper {
+  .desktop-home .text-wrapper-home {
     position: absolute;
     width: 126px;
     top: 0;
@@ -72,7 +72,7 @@
     line-height: normal;
   }
   
-  .desktop .overlap-group {
+  .desktop-home .overlap-group-home {
     position: absolute;
     width: 384px;
     height: 50px;
@@ -80,7 +80,7 @@
     left: 163px;
   }
   
-  .desktop .text-wrapper-2 {
+  .desktop-home .text-wrapper-2-home {
     position: absolute;
     width: 204px;
     top: 0;
@@ -93,7 +93,7 @@
     line-height: normal;
   }
   
-  .desktop .text-wrapper-3 {
+  .desktop-home .text-wrapper-3-home {
     position: absolute;
     width: 204px;
     top: 0;
@@ -106,7 +106,7 @@
     line-height: normal;
   }
   
-  .desktop .rectangle-2 {
+  .desktop-home .rectangle-2-home {
     position: absolute;
     width: 191px;
     height: 48px;
@@ -116,7 +116,7 @@
     border-radius: 30px;
   }
   
-  .desktop .text-wrapper-4 {
+  .desktop-home .text-wrapper-4-home {
     position: absolute;
     width: 138px;
     top: 33px;
@@ -129,7 +129,7 @@
     line-height: normal;
   }
   
-  .desktop .p {
+  .desktop-home .p-home {
     position: absolute;
     width: 616px;
     top: 179px;
@@ -143,7 +143,7 @@
     white-space: nowrap;
   }
   
-  .desktop .text-wrapper-5 {
+  .desktop-home .text-wrapper-5-home {
     position: absolute;
     width: 558px;
     top: 350px;
@@ -157,7 +157,7 @@
     line-height: normal;
   }
   
-  .desktop .overlap-group-wrapper {
+  .desktop-home .overlap-group-wrapper-home {
     position: absolute;
     width: 267px;
     height: 70px;
@@ -165,13 +165,13 @@
     left: 215px;
   }
   
-  .desktop .overlap-2 {
+  .desktop-home .overlap-2-home {
     position: relative;
     width: 265px;
     height: 70px;
   }
   
-  .desktop .rectangle-3 {
+  .desktop-home .rectangle-3-home{
     position: absolute;
     width: 244px;
     height: 70px;
@@ -180,7 +180,7 @@
     background-color: #9bd1c7;
   }
   
-  .desktop .START-NOW {
+  .desktop-home .START-NOW-home {
     position: absolute;
     width: 248px;
     top: 17px;
@@ -193,7 +193,7 @@
     line-height: normal;
   }
   
-  .desktop .rectangle-4 {
+  .desktop-home .rectangle-4-home {
     position: absolute;
     width: 1440px;
     height: 164px;
@@ -202,7 +202,7 @@
     background-color: #b7e2da;
   }
   
-  .desktop .MADE-WITH-TEAM {
+  .desktop-home .MADE-WITH-TEAM-home {
     position: absolute;
     width: 513px;
     top: 834px;
@@ -215,11 +215,11 @@
     line-height: normal;
   }
   
-  .desktop .span {
+  .desktop-home .span-home {
     color: #000000;
   }
   
-  .desktop .text-wrapper-6 {
+  .desktop-home .text-wrapper-6-home {
     color: #f31616;
   }
   

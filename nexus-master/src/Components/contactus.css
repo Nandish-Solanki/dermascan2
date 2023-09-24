@@ -1,4 +1,4 @@
-.desktop {
+.desktop-contact {
     background-color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -6,7 +6,7 @@
     width: 100%;
   }
   
-  .desktop .div {
+  .desktop-contact .div-contact {
     background-color: #ffffff;
     height: 1535px;
     overflow: hidden;
@@ -14,7 +14,7 @@
     width: 100%;
   }
   
-  .desktop .overlap {
+  .desktop-contact .overlap-contact {
     background-color: #dbebe8;
     border: 1px solid;
     border-color: #000000;
@@ -26,7 +26,7 @@
     width: 1448px;
   }
   
-  .desktop .group {
+  .desktop-contact .group-contact {
     height: 50px;
     left: 314px;
     position: absolute;
@@ -34,7 +34,7 @@
     width: 553px;
   }
   
-  .desktop .text-wrapper {
+  .desktop-contact .text-wrapper-contact {
     color: #000000;
     font-family: "Inconsolata-Regular", Helvetica;
     font-size: 32px;
@@ -47,7 +47,7 @@
     width: 126px;
   }
   
-  .desktop .overlap-group {
+  .desktop-contact .overlap-group-contact {
     position: absolute;
     width: 100%;
     height: 85px;
@@ -61,7 +61,7 @@
     -webkit-backdrop-filter: blur(4px) brightness(100%);
   }
   
-  .desktop .text-wrapper-2 {
+  .desktop-contact .text-wrapper-2-contact {
     position: absolute;
     width: 10%;
     top: 0;
@@ -75,7 +75,7 @@
     text-decoration: none;
   }
   
-  .desktop .text-wrapper-3 {
+  .desktop-contact .text-wrapper-3-contact {
     position: absolute;
   width: 45%;
   top: 0;
@@ -89,7 +89,7 @@
   text-decoration: none;
   }
   
-  .desktop .overlap-2 {
+  .desktop-contact .overlap-2-contact {
     height: 57px;
     left: 1236px;
     position: absolute;
@@ -97,7 +97,7 @@
     width: 191px;
   }
   
-  .desktop .rectangle {
+  .desktop-contact .rectangle-contact {
     background-color: #8dd2c5;
     border-radius: 30px;
     height: 48px;
@@ -107,7 +107,7 @@
     width: 191px;
   }
   
-  .desktop .text-wrapper-4 {
+  .desktop-contact .text-wrapper-4-contact {
     position: absolute;
     width: 45%;
     top: 0;
@@ -121,7 +121,7 @@
     text-decoration: none;
   }
   
-  .desktop .overlap-3 {
+  .desktop-contact .overlap-3-contact {
     height: 1365px;
     left: 0;
     position: absolute;
@@ -129,12 +129,12 @@
     width: 1440px;
   }
   
-  .desktop .two-hundred-and-seventy-four-million-two-hundred-and-eighty-seven-thousand-six-hundred-and-eleven {
+  .desktop-contact .two-hundred-and-seventy-four-million-two-hundred-and-eighty-seven-thousand-six-hundred-and-eleven-contact {
     left: 474px !important;
     transform: unset !important;
   }
   
-  .desktop .text {
+  .desktop-contact .text-contact {
     position: absolute;
     width: 90%;
     top: 139px;
@@ -147,7 +147,7 @@
     letter-spacing: 0;
     line-height: normal;
   }
-.desktop .text-wrapper-hi {position: absolute;
+.desktop-contact .text-wrapper-hi-contact {position: absolute;
     width: 138px;
     top: 13px;
     right: -8%;
@@ -160,7 +160,7 @@
     text-decoration: none;
 
 }
-  .desktop .text-wrapper-5 {
+  .desktop-contact .text-wrapper-5-contact {
     position: absolute;
   width: 400px;
   top: 3%;
@@ -173,7 +173,7 @@
   line-height: normal;
   }
   
-  .desktop .rectangle-2 {
+  .desktop-contact .rectangle-2-contact {
     background-color: #8dd2c5;
     height: 4px;
     left: 40%;
@@ -183,7 +183,7 @@
     width: 280px;
   }
   
-  .desktop .text-wrapper-6 {
+  .desktop-contact .text-wrapper-6-contact {
     color: #000000;
     font-family: "Mitr-Light", Helvetica;
     font-size: 40px;
@@ -196,7 +196,7 @@
     width: 379px;
   }
   
-  .desktop .text-wrapper-7 {
+  .desktop-contact .text-wrapper-7-contact {
     color: #000000;
     font-family: "Mitr-Light", Helvetica;
     font-size: 40px;
@@ -209,7 +209,7 @@
     width: 498px;
   }
   
-  .desktop .img {
+  .desktop-contact .img-contact {
     height: 181px;
     left: 26px;
     position: absolute;
@@ -217,7 +217,7 @@
     width: 756px;
   }
   
-  .desktop .group-2 {
+  .desktop-contact .group-2-contact {
     height: 429px;
     left: 12px;
     position: absolute;
@@ -225,7 +225,7 @@
     width: 744px;
   }
   
-  .desktop .rectangle-3 {
+  .desktop-contact .rectangle-3-contact {
     background-color: #b7e2da;
     height: 165px;
     left: 0;
@@ -234,7 +234,7 @@
     width: 1440px;
   }
   
-  .desktop .MADE-WITH-TEAM {
+  .desktop-contact .MADE-WITH-TEAM-contact {
     color: transparent;
     font-family: "Inter-Regular", Helvetica;
     font-size: 24px;
@@ -247,14 +247,14 @@
     width: 513px;
   }
   
-  .desktop .span {
+  .desktop-contact .span-contact {
     color: #000000;
   }
   
-  .desktop .text-wrapper-8 {
+  .desktop-contact .text-wrapper-8-contact {
     color: #f31616;
   }
-  .desktop .overlap-2 {
+  .desktop-contact .overlap-2-contact {
     position: absolute;
     width: 191px;
     height: 61px;
@@ -262,7 +262,7 @@
     left: 1227px;
   }
   
-  .desktop .rectangle-7 {
+  .desktop-contact .rectangle-7-contact {
     width: 191px;
     height: 48px;
     top: 0;
