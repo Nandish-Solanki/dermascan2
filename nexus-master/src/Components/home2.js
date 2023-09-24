@@ -1,6 +1,4 @@
 import React from 'react';
-// import uploadk from "../photos/home.jpeg";
-// import uploadj from "../photos/contact.jpeg";
 import "./home.css";
 
 const Home2 = () => {
@@ -36,8 +34,6 @@ const Home2 = () => {
               <a className="START-NOW-home" href="/photoscreen1">START NOW &gt;&gt;</a>
             </div>
           </div>
-          {/* <div><img className="homes-image-home" src={uploadk} /></div> */}
-          {/* <img className="contact-image-home" src={uploadj} /> */}
           <div className="rectangle-4-home"></div>
           <p className="MADE-WITH-TEAM-home">
             <span className="span-home">MADE WITH </span>
@@ -51,3 +47,4 @@ const Home2 = () => {
 };
 
 export default Home2;
+
