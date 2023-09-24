@@ -1,4 +1,6 @@
 import React from 'react';
+// import uploadk from "../photos/home.jpeg";
+// import uploadj from "../photos/contact.jpeg";
 import "./home.css";
 
 const Home2 = () => {
@@ -13,15 +15,17 @@ const Home2 = () => {
           /> */}
           <div className="div-home"></div>
           <div className="group-home">
-            <div className="text-wrapper-home">HOME</div>
+          <a className="text-wrapper-2-home" href="/home">HOME</a>
             <div className="overlap-group-home">
-              <div className="text-wrapper-2-home">ABOUT US</div>
-              <div className="text-wrapper-3-home">CONTACT US</div>
+            <a className="text-wrapper-3-home" href="/about">ABOUT US</a>
+            <a className="text-wrapper-4-home" href="/contact">CONTACT US</a>
             </div>
           </div>
-          <div className="rectangle-2-home"></div>
-          <div className="text-wrapper-4-home">SCAN NOW</div>
-          <p className="p-home">HEALTHY SKIN MADE EASY WITH DERMALYZE</p>
+          <div className="rectangle-2-home">
+          <a className="text-wrapper-i-home" href="/photoscreen1">SCAN NOW</a>
+          </div>
+          <p className="p-home">HEALTHY  SKIN  MADE <br></br> 
+          EASY  WITH DERMALYZE</p>
           <p className="text-wrapper-5-home">
             With Dermalyze, effortlessly upload a picture of your skin condition, and instantly receive a
             diagnosis.Also, find Ayurvedic remedies to help you on your healing journey.
@@ -29,9 +33,11 @@ const Home2 = () => {
           <div className="overlap-group-wrapper-home">
             <div className="overlap-2-home">
               <div className="rectangle-3-home"></div>
-              <div className="START-NOW-home">START NOW &gt;&gt;</div>
+              <a className="START-NOW-home" href="/photoscreen1">START NOW &gt;&gt;</a>
             </div>
           </div>
+          {/* <div><img className="homes-image-home" src={uploadk} /></div> */}
+          {/* <img className="contact-image-home" src={uploadj} /> */}
           <div className="rectangle-4-home"></div>
           <p className="MADE-WITH-TEAM-home">
             <span className="span-home">MADE WITH </span>

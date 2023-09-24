@@ -53,7 +53,7 @@
     height: 85px;
     top: 0;
     left: 0;
-    background-color: #f1f7f74c;
+    background-color: #20c8c84c;
     border: 1px solid;
     border-color: #000000;
     box-shadow: 0px 4px 4px #00000040;
@@ -64,7 +64,7 @@
   .desktop-contact .text-wrapper-2-contact {
     position: absolute;
     width: 10%;
-    top: 0;
+    top: 0%;
     left: -8%;
     font-family: "Inconsolata-Regular", Helvetica;
     font-weight: 400;
@@ -78,8 +78,8 @@
   .desktop-contact .text-wrapper-3-contact {
     position: absolute;
   width: 45%;
-  top: 0;
-  left: 1%;
+  top: 0%;
+  left: 12%;
   font-family: "Inconsolata-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
@@ -110,8 +110,8 @@
   .desktop-contact .text-wrapper-4-contact {
     position: absolute;
     width: 45%;
-    top: 0;
-    left: 32%;
+    top: 0%;
+    left: 41%;
     font-family: "Inconsolata-Regular", Helvetica;
     font-weight: 400;
     color: #000000;
@@ -150,7 +150,7 @@
 .desktop-contact .text-wrapper-hi-contact {position: absolute;
     width: 138px;
     top: 13px;
-    right: -8%;
+    right: -14%;
     font-family: "Inconsolata-Regular", Helvetica;
     font-weight: 400;
     color: #000000;
@@ -162,13 +162,13 @@
 }
   .desktop-contact .text-wrapper-5-contact {
     position: absolute;
-  width: 400px;
+  width: 25%;
   top: 3%;
-  left: 36%;
+  left: 40%;
   font-family: "Inconsolata-Regular", Helvetica;
   font-weight: 400;
   color: #000000;
-  font-size: 40px;
+  font-size: 43px;
   letter-spacing: 0;
   line-height: normal;
   }
@@ -210,28 +210,46 @@
   }
   
   .desktop-contact .img-contact {
-    height: 181px;
-    left: 26px;
+    height: 3%;
+    left: 6%;
     position: absolute;
-    top: 467px;
-    width: 756px;
+    top: 37%;
+    width: 44%;
+  box-shadow: 0px 4px 50px #00000040;
+  backdrop-filter: blur(40px) brightness(100%);
+  -webkit-backdrop-filter: blur(40px) brightness(100%);
+  background: linear-gradient(180deg, rgb(184, 226, 215.92) 0%, rgb(141.66, 220.15, 225.16) 99.99%);
+  border-color: rgb(184, 226, 215.92);
+  border-radius: 30px;
   }
   
   .desktop-contact .group-2-contact {
     height: 429px;
-    left: 12px;
+    left: 4%;
     position: absolute;
-    top: 693px;
-    width: 744px;
+    top: 54%;
+    width: 46%;
+    box-shadow: 0px 4px 50px #00000040;
+  backdrop-filter: blur(40px) brightness(100%);
+  -webkit-backdrop-filter: blur(40px) brightness(100%);
+  background: linear-gradient(180deg, rgb(184, 226, 215.92) 0%, rgb(141.66, 220.15, 225.16) 99.99%);
+  border-color: rgb(13, 177, 139);
+  border-radius: 30px;
   }
-  
+   
+  .desktop-contact .contact-image-contact{
+    width: 52%;
+    left: 53.5%;
+    top: 31%;
+    position: relative;
+  }
   .desktop-contact .rectangle-3-contact {
     background-color: #b7e2da;
     height: 165px;
     left: 0;
     position: absolute;
-    top: 1200px;
-    width: 1440px;
+    top: 90%;
+    width: 108%;
   }
   
   .desktop-contact .MADE-WITH-TEAM-contact {

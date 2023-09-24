@@ -412,8 +412,18 @@
     width: 103px;
     height: 92px;
     top: 683px;
+    left: 75px;
+    object-fit: cover;
+   
+  }
+  .desktop-pso .upload-image-pso {
+    position: absolute;
+    width: 103px;
+    height: 92px;
+    top: 683px;
     left: 74px;
     object-fit: cover;
+   
   }
   
   .desktop-pso .rectangle-2-pso {
